@@ -1,0 +1,10 @@
+.Header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+h1,h2{
+    color: white;
+}

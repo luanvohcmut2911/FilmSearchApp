@@ -1,0 +1,16 @@
+.Search{
+    display: flex;
+    /* height: 20vh; */
+    width: 100vw;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+.Box{
+    width: 50vw;
+}
+.Button:hover{
+    cursor: pointer;
+    background-color: yellow;
+}
